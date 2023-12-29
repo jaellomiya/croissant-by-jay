@@ -1,0 +1,26 @@
+h1,
+p {
+  text-align: center;
+}
+
+.info-links {
+  text-align: center;
+  padding: 5px;
+}
+
+h1,
+p {
+  font-family: "Libre Baskerville", serif;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 60%;
+  height: auto;
+}
+
+body {
+  background-color: #ffebbb;
+}
